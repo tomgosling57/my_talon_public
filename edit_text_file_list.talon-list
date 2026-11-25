@@ -1,0 +1,7 @@
+list: user.edit_text_file
+os: linux
+os: windows
+-
+
+additional words: ../my_talon/vocabulary.talon-list
+vocabulary: ../my_talon/vocabulary.talon-list

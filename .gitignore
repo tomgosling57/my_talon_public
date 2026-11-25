@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+macro/macros.json
+vscode/vscode_hal.talon
+secret.talon
+secrets.talon
+contact.talon

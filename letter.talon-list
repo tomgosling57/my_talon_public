@@ -1,0 +1,40 @@
+list: user.letter
+-
+# for common alternative spoken forms for letters, visit
+# https://talon.wiki/Resource%20Hub/Speech%20Recognition/improving_recognition_accuracy#collected-alternatives-to-the-default-alphabet
+gazette: ß
+air: a
+long air: á
+umlaut air: ä
+bat: b
+cap: c
+drum: d
+each: e
+long each: é
+fine: f
+gust: g
+harp: h
+sit: i
+long sit: í
+jury: j
+crunch: k
+look: l
+made: m
+near: n
+odd: o
+long odd: ó
+umlaut odd: ö
+pit: p
+quench: q
+red: r
+sun: s
+trap: t
+urge: u
+long urge: ú
+umlaut urge: ü
+vest: v
+whale: w
+plex: x
+yank: y
+zip: z
+
